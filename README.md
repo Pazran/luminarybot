@@ -7,3 +7,5 @@ Fill in the auth keys in secret.py
 Required
 - twython 3.4.0
 - Unidecode 0.4.19
+
+Check out [LuminaryBot](https://twitter.com/luminarybot) on Twitter.
