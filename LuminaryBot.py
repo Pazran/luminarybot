@@ -45,7 +45,7 @@ def main():
     # 140-6 to reserve for SPACES
     if len(authorA) >= 1 and len(quoteA)+len(authorA) <= (140-6):
         try:
-                    tweetB = "\"" + quoteA + "\"\n\n- " + authorA
+                    tweetA = "\"" + quoteA + "\"\n\n- " + authorA
                     twitter.update_status(status=tweetA)
                     print("\nTwitted one quote. Check the log for more info...")
         except TwythonError as errA:
