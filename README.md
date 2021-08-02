@@ -1,4 +1,4 @@
-# LuminaryBot
+# LuminaryBot (Depreciated)
 Twitter bot that will post two quotes everyday using Twython and written in Python 3.4.
 This bot uses REST API from https://theysaidso.com/api/ to retrieve the quote and the author.
 
